@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.0'
 gem 'bootstrap-sass'
 gem 'sprockets'
 gem 'devise'
+gem 'jquery-rails'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
